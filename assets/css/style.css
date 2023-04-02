@@ -230,7 +230,7 @@ header .container {
   color: var(--royal-blue-dark);
   font-weight: var(--fw-600);
   padding: 15px 10px;
-  opacity: 0;
+/*   opacity: 0; */
   transition: opacity var(--transition);
 }
 
